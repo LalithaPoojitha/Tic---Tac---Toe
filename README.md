@@ -1,4 +1,4 @@
-# Tic---Tac---Toe
+# Tic-Tac-Toe
 Tic Tac Toe is a simple, two-player game where players take turns marking a square on a 3x3 grid with either an X or an O. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game.
 
 ## Features:
@@ -23,4 +23,8 @@ Tic Tac Toe is a simple, two-player game where players take turns marking a squa
 5. Reset Game: The game can be reset by clicking a reset button.
 
 ## Result:
+<a href="https://github.com/LalithaPoojitha/Tic---Tac---Toe/blob/main/Screenshot%202025-06-07%20012516.png"> Tic-Tac-Toe Output </a>
 
+## Conclusion:
+
+Creating a Tic Tac Toe game using HTML, CSS, and JavaScript is a fun and educational project that can help you develop your web development skills. With this game, you can practice working with game logic.
